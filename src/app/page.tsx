@@ -5,7 +5,7 @@ export default function Home() {
 		<div className="h-screen flex flex-col justify-center items-center">
 			<h1 className="text-7xl break-words">
 				Welcome to Plypicker
-				<span className="text-4xl text-slate-400 ml-4">Conference</span>
+				
 			</h1>
 
 			<Link href="/sign-up">
